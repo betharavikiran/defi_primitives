@@ -35,6 +35,7 @@ stats.json
 *.sublime-workspace
 .vscode/
 .deps
+/.states
 
 # IDE - VSCode
 .vscode/*
